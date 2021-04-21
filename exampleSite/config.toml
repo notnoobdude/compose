@@ -36,7 +36,7 @@ home = ["HTML", "RSS", "JSON"]
 codeLineNumbers = false
 codeMaxLines = 7
 enableDarkMode = true
-repo = "https://github.com/onweru/compose"
+repo = "https://github.com/notnoobdude/compose"
 time_format_blog = "Monday, January 02, 2006"
 time_format_default = "January 2, 2006"
 [params.author]
